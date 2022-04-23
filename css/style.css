@@ -685,6 +685,14 @@ header {
     .card_text span{
         font-size: 11px;
     }
+    
+    .text_title{
+        font-size: 18px;
+    }
+
+    .text_subtitle{
+        font-size: 15px;
+    }
 }
 
 

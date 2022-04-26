@@ -605,7 +605,7 @@ header {
     height: 45px;
 }
 
-@media(min-width:1441px)and (max-width:1900px){
+@media(min-width:1025px)and (max-width:1900px){
     .menu1_text span{
         font-size: calc(8px + 10 * (100vw / 1900));
     }
@@ -696,6 +696,9 @@ header {
 
     .text_subtitle{
         font-size: 15px;
+    }
+    .menu1_text span{
+        font-size: 11px;
     }
 }
 
